@@ -23,7 +23,7 @@ repository               : "qinlanyang1/qinlan-iris-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_profile.png"
+  avatar           : "my_profile.jpg"
   name             : "Qinlan (Iris) Yang"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
